@@ -7,9 +7,5 @@
 
 
 A collection of projects used by Karangsuci Boarding School based on Purwokerto, Central Java, Indonesia.
-## Project Management Tools
-
- - [JIRA](https://dashboard-dev.karangsuci.com/static/media/KarangsuciLogo.14725a8c.png)
- - [Confluence](https://karangsuciproject.atlassian.net/wiki)
 
 
